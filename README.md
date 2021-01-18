@@ -1,17 +1,20 @@
 # Online portfölj Gustav Eklund Kavtaradze
-### Detta är en online portfölj av gjorda och pågående projekt gjorda eller med medverkande av Gustav Eklund Kavtaradze.
-
+#### Detta är en online portfölj av gjorda och pågående projekt gjorda eller med medverkande av Gustav Eklund Kavtaradze.
 
 ## Pågående projekt 
 
 ### Hydroponiskodlings projekt
 #### Private projekt
+Private projekt för att hantera och ta hand om min egna personliga hydroponiska odling som, kontrollerar pumpar och lampor. Vidarutveckling kommer till att även kontrollera pH och näring. Projektet bygger på användningen av av Arduino Uno som programmeras med C/C++ samt grundläggande el lära och kopplingar på kopplingsdeck.
 
-Använder de kunskaper jag har ifrån utbildningen för att ta fram en egen recept applikation för att samla recept och utföra funktioner som att skapa inköpslistor m.m. Framtagit med Java, Spring och React samt grundläggande Swift för iOS applikation.
+-Test
+-test
+-tets
+-tets
 
 ### Recept hanteringssystem
 #### Private porjekt
-Private projekt för att hantera och ta hand om min egna personliga hydroponiska odling som, kontrollerar pumpar och lampor. Vidarutveckling kommer till att även kontrollera pH och näring. Projektet bygger på användningen av av Arduino Uno som programmeras med C/C++ samt grundläggande el lära och kopplingar på kopplingsdeck.
+Använder de kunskaper jag har ifrån utbildningen för att ta fram en egen recept applikation för att samla recept och utföra funktioner som att skapa inköpslistor m.m. Framtagit med Java, Spring och React samt grundläggande Swift för iOS applikation.
 
 ## Gjorda proejkt
 
@@ -54,11 +57,3 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/meckan/Gustav_Portfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
