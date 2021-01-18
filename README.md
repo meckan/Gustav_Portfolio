@@ -1,4 +1,28 @@
-## Välkommen till min GitHub sammanställning av några av mina projekt jag jobbat och jobbar på
+# Online portfölj Gustav Eklund Kavtaradze
+### Detta är en online portfölj av gjorda och pågående projekt gjorda eller med medverkande av Gustav Eklund Kavtaradze.
+
+
+
+## Pågående projekt 
+
+### Hydroponiskodlings projekt
+#### Private projekt
+
+
+
+### Recept hanteringssystem
+#### Private porjekt
+
+## Gjorda proejkt
+
+### Examensarbete
+#### Gjord på befrågan av Kungliga Tekniska Högskolan
+
+### Projekt arbete
+#### Gjord på kurs inom Kungliga Tekniska Högskolan
+
+
+
 
 You can use the [editor on GitHub](https://github.com/meckan/Gustav_Portfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
