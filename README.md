@@ -7,10 +7,10 @@
 #### Private projekt
 Private projekt för att hantera och ta hand om min egna personliga hydroponiska odling som, kontrollerar pumpar och lampor. Vidarutveckling kommer till att även kontrollera pH och näring. Projektet bygger på användningen av av Arduino Uno som programmeras med C/C++ samt grundläggande el lära och kopplingar på kopplingsdeck.
 
--Test
--test
--tets
--tets
+* Test
+* test
+* tets
+* tets
 
 ### Recept hanteringssystem
 #### Private porjekt
