@@ -33,3 +33,4 @@ Inom detta projekt gjordes ett antal prototyper där OAuth 2.0 implementerats i 
 ### Projekt arbete
 #### Gjord på kurs inom Kungliga Tekniska Högskolan
 Under projektkurs på KTH utfördes de ett större projekt vilket var att ta fram ett enkät system för svara och göra nya enkäter. Inom detta projekt användes Java, Spring, MySQL, React och OAuth 2.0 som huvudområden.
+Inom detta projekt användes även projekt stilen SCRUM för att dela upp arbetet i etapper och i mindre delar för enklare uppdelning av delar inom gruppen. Inom denna grupp agerade jag även SCRUM master. 
