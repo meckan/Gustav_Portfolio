@@ -20,6 +20,8 @@ Vad som ingår i detta projekt är:
 * Automatiskt påfyllning och cirkulation av vatten.
 * På och avstängning av ljus. 
 
+![](https://github.com/meckan/Gustav_Portfolio/blob/main/images/small-hydro-pic.jpg)
+
 ## Gjorda projekt
 
 ### Examensarbete
