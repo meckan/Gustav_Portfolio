@@ -48,7 +48,7 @@ Jag utvecklar även en del på fritiden för att fortsätta lära mig och skapa 
 
 Jag har erfarenhet av fullstack utveckling med användning av Java, Spring, MySQL och React.Js Som frontend ramverk. Har även grundläggande erfarenhet av C++ och C# med .Net. 
 ### //Gustav Eklund Kavtaradze
-
+[Personligt brev PDF](/images/Personligtbrev_G_Kavtaradze_github.pdf)
 
 
 
