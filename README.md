@@ -25,7 +25,7 @@ Vad som ingår i detta projekt är:
 ## Gjorda projekt
 
 ### Examensarbete
-#### Gjord på befrågan av Kungliga Tekniska Högskolan
+#### Gjord på begäran av Kungliga Tekniska Högskolan
 Examensarbete utvärdera säkerhet inom webbapplikationer,gick ut på att identifiera säkerhetsrisker och komplimenterade säkerhetsåtgärder för webbapplikationer. 
 Inom detta projekt gjordes ett antal prototyper där OAuth 2.0 implementerats i en autentiserings- och resursservers arkitektur, samt en webbaserad frontend gjord i React.JS.
 
