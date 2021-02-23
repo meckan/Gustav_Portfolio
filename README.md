@@ -46,9 +46,31 @@ Jag har under många år varit engagerad inom scouterna där jag lärt mig både
 
 Jag utvecklar även en del på fritiden för att fortsätta lära mig och skapa egna applikationer man kan personligen ha användning av, jobbar för närvarande på en egen recept och matlagning applikation. Jag jobbar även på ett mindre projekt rörande Arduino för att styra min egna hydroponisk odling så den kan ta hand om sig själv mer eller mindre. 
 
-Jag har erfarenhet av fullstack utveckling med användning av Java, Spring, MySQL och React.Js Som frontend ramverk. Har även grundläggande erfarenhet av C++ och C# med .Net. 
 ### //Gustav Eklund Kavtaradze
 [Personligt brev PDF](/images/Personligtbrev_G_Kavtaradze_github.pdf)
+
+# Kompetenser
+## Huvudkompetenser
+  * Java
+  * Spring, Spring Framework, Spring Boot
+  * React.js, JavaScript
+  * MySQL
+  * Git, GitHub
+  * Rest, RESTful api
+  * Microservices, Mikrotjänster
+
+### Erfarenhet av
+  * OAuth2.0
+  * NPM
+  * Maven
+  * C/C++
+  * Bootstrap, React Bootstrap
+  * Docker
+  * Linux/Ubuntu
+  * MongoDB
+  * Swift
+  * JUnit, TDD, Test driven programmering
+  * SCRUM, Agilt
 
 
 
