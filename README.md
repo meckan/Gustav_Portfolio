@@ -56,7 +56,7 @@ Jag utvecklar även en del på fritiden för att fortsätta lära mig och skapa 
   * React.js, JavaScript
   * MySQL
   * Git, GitHub
-  * Rest, RESTful api
+  * Rest, RESTful api, Postman
   * Microservices, Mikrotjänster
 
 ### Erfarenhet av
