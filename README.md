@@ -1,5 +1,6 @@
 # Online portfölj Gustav Eklund Kavtaradze
 #### Detta är en online portfölj av gjorda och pågående projekt gjorda eller med medverkande av Gustav Eklund Kavtaradze.
+Vad gäller projekt som gjorts åt företag tas ej upp här.
 
 ## Pågående projekt 
 
@@ -45,12 +46,13 @@ Inom detta projekt användes även projekt stilen SCRUM för att dela upp arbete
   * Git, GitHub
   * Rest, RESTful api, Postman
   * Microservices, Mikrotjänster
+  * OOP
 
 ### Erfarenhet av
   * OAuth2.0
   * NPM
   * Maven
-  * C/C++
+  * C/C++, C# 
   * Bootstrap, React Bootstrap
   * Docker
   * Linux/Ubuntu
